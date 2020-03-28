@@ -1,0 +1,9 @@
+node_modules
+.vs/
+obj/
+bin/
+logs/
+
+MQPoducer/Properties/PublishProfiles/
+
+MQConsume/Properties/PublishProfiles/
