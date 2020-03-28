@@ -1,1 +1,2 @@
-1.修改appsettings.json中配置
+1.修改MQConsume与MQPoducer项目中appsettings.json中配置
+2.运行
